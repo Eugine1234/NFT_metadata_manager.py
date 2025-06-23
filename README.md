@@ -53,4 +53,9 @@ This tool is designed to manage the **off-chain metadata** for Non-Fungible Toke
 ## 🚀 Usage
 
 Upon running the script, you'll be presented with a main menu in your terminal:
+Create New NFT Metadata
+Edit Existing NFT Metadata
+View NFT Metadata
+Batch Generate Metadata (for collections)
+Exit
 
