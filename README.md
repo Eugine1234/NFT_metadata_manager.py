@@ -32,7 +32,7 @@ This tool is designed to manage the **off-chain metadata** for Non-Fungible Toke
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/python-nft-metadata-manager.git](https://github.com/YourUsername/python-nft-metadata-manager.git)
+    git clone [[https://github.com/YourUsername/python-nft-metadata-manager.git](https://github.com/Eugine1234/NFT_metadata_manager.py)](https://github.com/Eugine1234/python-nft-metadata-manager.git)
     cd python-nft-metadata-manager
     ```
     (Replace `YourUsername` with your actual GitHub username)
